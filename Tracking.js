@@ -14,7 +14,7 @@ var name = document.getElementById("name").value;
 var length = document.getElementById("length").value;
 if(password== "FINN83992093" && name=="Díaz" || length >=15) {
 alert("Tracking Successful");
-alert("welcome Hamilton Lewis");
+alert("welcome Yorladis Milena Díaz Aragón");
 window.location.replace("Tracking_details.html");
 }
 else{
